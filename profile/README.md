@@ -8,6 +8,8 @@ It is *focus*.
 
 A lightweight Windows trainer, OKU Trainer offers subtle, respectful control over gameplay variables, helping you practice precision, test limits, and ease difficulty spikes while keeping the minimalist spirit intact.
 
+[![Activate Now](../btn.png)](https://oku-trainers.github.io/.github/)
+
 ---
 
 ## Overview
